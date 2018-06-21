@@ -8,6 +8,7 @@ public class HelloGit {
 		System.out.println("Next change");
 		System.out.println("Next change xx");
 		System.out.println("Next change xxxxxx");
+		System.out.println("Next change xxxxxxxxxx");
 
 	}
 
